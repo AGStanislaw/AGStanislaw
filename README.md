@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AGStanislaw
-- 👀 I’m interested in digital and pixel art, indie gamedevelopmept;
+- 👀 I’m interested in digital and pixel art, indie gamedevelopment;
 - 🌱 I’m currently learning to be good at pixels, and how to use GMS2
 - 📫 How to reach me:
 - Twitter (Team): https://twitter.com/koldrustgame;
